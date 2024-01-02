@@ -10,7 +10,7 @@
 body {
   font-family: "Poppins", sans-serif;
   background-color: black; 
-  color: #F4EEFF; 
+  color: #fcfaff; 
 }
 
 html {
@@ -253,8 +253,9 @@ section {
 }
 
 .btn-color-1:hover {
-  background: #9BA4B5;
-  color: rgb(0, 0, 0);
+  background: #020414;
+  color: rgb(218, 217, 217);
+  border: 1px solid white;
 }
 
 
